@@ -93,6 +93,12 @@ ___
 2. b
 3. c
 
+## emojis
+
+:smile: <= smile  
+:wink:  <= wink
+
+
 ## Header Test
 
 # h1
